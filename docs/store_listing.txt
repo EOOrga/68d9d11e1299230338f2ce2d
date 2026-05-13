@@ -1,0 +1,13 @@
+App name
+BORDEAUX ELISABETH
+
+Short description
+Coordinate leads, resources, training, and visits in a private local workspace.
+
+Full description
+BORDEAUX ELISABETH gives business teams a focused Android workspace for daily operations. The app brings resource allocation, lead tracking, staff training progress, and visitor desk activity into one clear local dashboard.
+
+Teams can create resource plans, add lead records, monitor course readiness, check visitors in, and review workspace privacy settings without accounts or cloud sync. Records stay on the device so daily business coordination remains simple and private.
+
+Category
+Business
