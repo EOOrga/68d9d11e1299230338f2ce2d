@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.bordeauxelisabeth.ops": {
+      "title": "BORDEAUX ELISABETH",
+      "short_description": "Coordinate leads, resources, training, and visits in a private local workspace.",
+      "full_description": "BORDEAUX ELISABETH gives business teams a focused Android workspace for daily operations. The app brings resource allocation, lead tracking, staff training progress, and visitor desk activity into one clear local dashboard.\n\nTeams can create resource plans, add lead records, monitor course readiness, check visitors in, and review workspace privacy settings without accounts or cloud sync. Records stay on the device so daily business coordination remains simple and private.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:23:29.603365+00:00"
+    }
+  }
+}
