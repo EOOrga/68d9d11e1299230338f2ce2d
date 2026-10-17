@@ -18,9 +18,9 @@ class BordeauxApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const primary = Color(0xFF183869);
-    const secondary = Color(0xFF0F766E);
-    const tertiary = Color(0xFFC97719);
+    const primary = Color(0xFF1565C0);
+    const secondary = Color(0xFF8BC34A);
+    const tertiary = Color(0xFF558B2F);
 
     final colorScheme = ColorScheme.fromSeed(
       seedColor: primary,
@@ -219,7 +219,7 @@ class DashboardScreen extends StatelessWidget {
       padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
       children: [
         SectionHeader(
-          title: 'Operations board',
+          title: 'BORDEAUX ELISABETH',
           action: FilledButton.icon(
             key: const Key('new-allocation'),
             onPressed: () => _showResourceDialog(context),
