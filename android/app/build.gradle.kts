@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.bordeauxelisabeth.ops"
+        applicationId = "com.carerrass.ops"
         minSdk = 23
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
