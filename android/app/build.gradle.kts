@@ -30,7 +30,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.bordeauxelisabeth.ops"
+        applicationId = "com.bordeauxelisabeth.dabla"
         minSdk = 23
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
